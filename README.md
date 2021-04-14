@@ -1,5 +1,5 @@
 # codeRefactor
-GW Coding Homework #1 due Tuesday, November 10, 2020.
+GW Coding Bootcamp Homework #1
 
 ## Deploy URL
 (https://technikks.github.io/codeRefactor/)
