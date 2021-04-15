@@ -1,13 +1,11 @@
 # codeRefactor
-GW Coding Bootcamp Homework #1
 
-## Deploy URL
+
+## Deployed URL
 (https://technikks.github.io/codeRefactor/)
 
-## Mock Up
-![Homework Demo](./Assets/01-html-css-git-homework-demo.png)
 
-## Purpose
+## Description
 Rewrite the codebase to meet accessibility standards so that the site is optimized for search engines.
 
 * Review source code and mock up for structure and provide semantic HTML tags so that it clearly defines content. Below are the added semantic HTML tags: 
@@ -29,3 +27,11 @@ Rewrite the codebase to meet accessibility standards so that the site is optimiz
     * Title 
 
 * Rewrite title so that it is a concise and descriptive title.
+
+
+## Mock Up
+![Homework Demo](Assets/01-html-css-git-homework-demo.png)
+
+
+## Technologies
+* HTML
