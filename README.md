@@ -5,8 +5,7 @@ GW Coding Bootcamp Homework #1
 (https://technikks.github.io/codeRefactor/)
 
 ## Mock Up
-Refer to the following image for the web application's appearance and functionality:
-[Homework Demo](Assets/01-html-css-git-homework-demo.png)
+![Homework Demo](Assets/01-html-css-git-homework-demo.png)
 
 ## Purpose
 Rewrite the codebase to meet accessibility standards so that the site is optimized for search engines.
